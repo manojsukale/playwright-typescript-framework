@@ -1,0 +1,14 @@
+
+# Playwright
+node_modules/
+playwright-report/
+test-results/
+test-results/
+blob-report/
+coverage/
+/playwright/.cache/
+/playwright/.auth/
+.env
+.env.*
+dist/
+*.log

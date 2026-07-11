@@ -1,0 +1,23 @@
+[
+  {
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "clinic": "Abu Dhabi Mall",
+    "gender": "Male",
+    "language": "English"
+  },
+  {
+    "country": "UAE",
+    "city": "Dubai",
+    "clinic": "Mall of the Emirates",
+    "gender": "Female",
+    "language": "English"
+  },
+  {
+    "country": "UAE",
+    "city": "Sharjah",
+    "clinic": "Sahara Centre",
+    "gender": "Male",
+    "language": "English"
+  }
+]

@@ -12,3 +12,7 @@ coverage/
 .env.*
 dist/
 *.log
+
+# Playwright
+/playwright-report/
+/blob-report/
